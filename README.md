@@ -33,3 +33,4 @@ If you wish to expand upon this project, you'll need to obtain your own set of A
 <br>
 > const DARK_SKY_API_KEY = {YOUR KEY};<br>
 
+You'll then have to build the **src/** folder with all the dependencies listed in package.json to output a **bundle.js** file in location **public/**. 
