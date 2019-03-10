@@ -12,6 +12,6 @@ Functionality includes:
 <img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/tablet.gif" alt="Tablet View" width="25%" height="25%">
 
 ### Desktop View
-<img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/desktop.gif" alt="Desktop View" width="25%" height="25%">
+<img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/desktop.gif" alt="Desktop View" width="50%" height="50%">
 
 ## Built With
