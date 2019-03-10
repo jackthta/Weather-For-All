@@ -1,0 +1,18 @@
+.header__title {
+    text-transform: uppercase;
+    font-size: $xl-size;
+    text-shadow: 1px 1px 0px #555;
+}
+
+
+@media (min-width: $tablet) {
+    .header__title {
+        font-size: $xxl-size;
+    }
+}
+
+@media (min-width: $desktop) {
+    .header__title {
+        font-size: $xxxl-size;
+    }
+}

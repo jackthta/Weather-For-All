@@ -1,0 +1,39 @@
+.week-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.week__title {
+    font-size: $l-size;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: $xxl-size;
+}
+
+@media (min-width: $tablet) {
+    .week__title {
+        font-size: $xl-size;
+        margin-top: $xxxl-size;
+    }
+}
+
+@media (min-width: $desktop) {
+    .week-container {
+        width: 85vw;
+        border-radius: 5px;
+        flex-direction: row;
+        justify-content: unset;
+        align-items: unset;
+        overflow: auto;
+        margin: $xxxl-size auto;
+        padding: $xl-size;
+        padding-top: 0;
+    }
+    .week__title {
+        font-size: $xxl-size;
+        margin-top: $xxxl-size;
+        font-weight: 300;
+    }
+}

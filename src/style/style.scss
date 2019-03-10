@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+@import './base/settings';
+@import './base/base';
+@import './base/alignment';
+
+//Components
+@import './components/weather-app';
+@import './components/header';
+@import './components/form';
+@import './components/week';
+@import './components/day';

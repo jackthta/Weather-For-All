@@ -1,0 +1,77 @@
+.day-container {
+    background-color: lighten($blue, 10%);
+    box-shadow: 0 0 $xs-size #555;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    padding: $xl-size;
+    flex-grow: 1;
+    flex-shrink: 0;
+    margin: $m-size auto;
+}
+
+.day {
+    font-size: $s-size;
+}
+
+.forecast {
+    font-size: $s-size;
+}
+
+.forecast-icon {
+    width: $xxxxl-size;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: inset 0 0 5px #555;
+    margin: $s-size auto;
+    padding: 0 $s-size;
+}
+
+.avg-temp__button {
+    border: none;
+    background-color: inherit;
+}
+
+.avg-temp {
+    margin-top: $xs-size;
+    font-size: $l-size;
+}
+
+
+@media (min-width: $tablet) {
+    .day {
+        font-size: $l-size;
+    }
+    .forecast {
+        font-size: $l-size;
+    }
+    .forecast-icon {
+        width: $xjumbo-size;
+    }
+    .avg-temp {
+        font-size: $xxxxl-size;
+    }
+}
+
+@media (min-width: $desktop) {
+    .day-container {
+        width: 20vw;
+        padding: $l-size;
+        margin: $s-size;
+    }
+    .day {
+        font-size: $m-size;
+    }
+    .forecast {
+        font-size: $m-size;
+    }
+    .forecast-icon {
+        width: $xxl-size;
+    }
+    .avg-temp {
+        font-size: $xl-size;
+    }
+}
