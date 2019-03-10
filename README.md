@@ -6,12 +6,12 @@ Functionality includes:
 
 ## Showcase
 ### Phone View
-![Phone View](https://github.com/jackthta/Weather-For-All/blob/master/showcase/phone.gif)
+<img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/phone.gif" alt="Phone View" width="25%" height="25%">
 
 ### Tablet View
-![Tablet View](https://github.com/jackthta/Weather-For-All/blob/master/showcase/tablet.gif)
+<img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/tablet.gif" alt="Tablet View" width="25%" height="25%">
 
 ### Desktop View
-![Desktop View](https://github.com/jackthta/Weather-For-All/blob/master/showcase/desktop.gif)
+<img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/desktop.gif" alt="Desktop View" width="25%" height="25%">
 
 ## Built With
