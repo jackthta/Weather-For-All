@@ -27,8 +27,10 @@ If you wish to expand upon this project, you'll need to obtain your own set of A
 
 <br>
 *line 17*
+<br>
 > const GEOCODE_API_KEY = {YOUR KEY};
 
 <br>
 *line 36*
+<br>
 > const DARK_SKY_API_KEY = {YOUR KEY};
