@@ -6,7 +6,7 @@ Functionality includes:
 
 ## Showcase
 ### Phone View
-<img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/phone.gif" alt="Phone View" width="25%" height="25%">
+<img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/phone.gif" alt="Phone View" width="25%" height="25%" box-shadow="0 0 10px #555>
 
 ### Tablet View
 <img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/tablet.gif" alt="Tablet View" width="25%" height="25%">
