@@ -25,11 +25,11 @@ Functionality includes:
 ## To use
 If you wish to expand upon this project, you'll need to obtain your own set of API keys from the APIs listed above. The locations of where to apply them are in **WeatherApp.js** (src/components/WeatherApp.js)<br>
 
-*line 17*
+**line 17:**
 <br>
-> const GEOCODE_API_KEY = {YOUR KEY};
+> const GEOCODE_API_KEY = {YOUR KEY};<br>
 
+**line 36:**
 <br>
-*line 36*
-<br>
-> const DARK_SKY_API_KEY = {YOUR KEY};
+> const DARK_SKY_API_KEY = {YOUR KEY};<br>
+
