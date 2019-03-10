@@ -20,3 +20,9 @@ Functionality includes:
 ### APIs
 - **[Dark Sky](https://darksky.net/dev)**
 - **[Google Geocode](https://cloud.google.com/maps-platform/?__utma=102347093.427295369.1551241192.1552192166.1552192166.1&__utmb=102347093.0.10.1552192166&__utmc=102347093&__utmx=-&__utmz=102347093.1552192166.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)&__utmv=-&__utmk=159041850&_ga=2.216961366.1730777831.1552192163-427295369.1551241192#get-started)**
+
+
+## To use
+If you wish to expand upon this project, you'll need to obtain your own set of API keys from the APIs listed above. The locations of where to apply them are in **WeatherApp.js** (src/components/WeatherApp.js)
+*line 17* > const GEOCODE_API_KEY = {YOUR KEY}; <
+*line 36* > const DARK_SKY_API_KEY = {YOUR KEY}; <
