@@ -15,8 +15,4 @@ Functionality includes:
 <img src="https://github.com/jackthta/Weather-For-All/blob/master/showcase/desktop.gif" alt="Desktop View" width="25%" height="25%">
 
 ## Built With
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="100px" height="100px">
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3" width="100px" height="100px">
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS" width="100px" height="100px">
-<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="ReactJS" width="100px" height="100px">
-<img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="100px" height="100px">
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="100px" height="100px"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3" width="100px" height="100px"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS" width="100px" height="100px"> <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="ReactJS" width="100px" height="100px"> <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="100px" height="100px">
